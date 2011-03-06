@@ -1,0 +1,10 @@
+F:\sharpbot\sharpbot\bin\Debug\sharpbot.exe
+F:\sharpbot\sharpbot\bin\Debug\sharpbot.pdb
+F:\sharpbot\sharpbot\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sharpbot\sharpbot\obj\x86\Debug\sharpbot.Properties.Resources.resources
+F:\sharpbot\sharpbot\obj\x86\Debug\sharpbot.sbMain.resources
+F:\sharpbot\sharpbot\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sharpbot\sharpbot\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sharpbot\sharpbot\obj\x86\Debug\sharpbot.exe
+F:\sharpbot\sharpbot\obj\x86\Debug\sharpbot.pdb
+F:\sharpbot\sharpbot\bin\Debug\sharpbot.exe.config

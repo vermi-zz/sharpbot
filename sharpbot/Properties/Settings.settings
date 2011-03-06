@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sharpbot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="botNick" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sharpbot</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sharpbot</Value>
+    </Setting>
+    <Setting Name="realName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sharpbot</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sharpbot</Value>
+    </Setting>
+    <Setting Name="hostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">irc.rizon.net</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6667</Value>
+    </Setting>
+    <Setting Name="autoChans" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#raylu</Value>
+    </Setting>
+    <Setting Name="trigger" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
